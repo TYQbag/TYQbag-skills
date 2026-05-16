@@ -1,5 +1,7 @@
 # TYQbag Skills
 
+[![skills.sh](https://skills.sh/b/TYQbag/TYQbag-skills)](https://skills.sh/TYQbag/TYQbag-skills)
+
 Personal agent skills published for installation with the Skills CLI.
 
 ## Available Skills

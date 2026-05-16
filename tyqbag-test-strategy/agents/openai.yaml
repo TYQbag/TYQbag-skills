@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Strategy"
+  short_description: "Plan tests and verify changes with evidence."
+  default_prompt: "Use $test-strategy to decide what tests are needed, plan the right test layer, and verify the change with real evidence."

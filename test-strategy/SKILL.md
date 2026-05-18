@@ -1,6 +1,6 @@
 ---
 name: test-strategy
-description: Use when implementing features, fixing bugs, refactoring, changing requirements, deciding whether automated tests are required, planning test coverage, writing or updating tests, or verifying completed code changes across any project. Guides risk-based test decisions, test layer selection, regression testing, unit test quality, and evidence-based verification without assuming a specific framework.
+description: Use when implementing features, fixing bugs, refactoring, changing requirements, deciding whether automated tests are required, planning test coverage, writing or updating tests, or verifying completed code changes across any project.
 ---
 
 # Test Strategy
